@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 
 - ⚡ Fun fact: ...
 
+<br/>
+
 ### 📫 Connect with me:
 
 [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
