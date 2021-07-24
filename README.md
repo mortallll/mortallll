@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
 <!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
 
-<br />
+<br/> 
+<br/>
 
 ### Languages and Tools:
 
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mortallll&theme=dracula)](https://github.com/mortallll/github-readme-activity-graph)
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mortallll&theme=react-dark)](https://github.com/mortallll/github-readme-activity-graph)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
