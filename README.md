@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Suraj - aka [mortallll][website] 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+viwes)
+![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)
 
 <img align="right" alt="GIF" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" width="350" height="350" />
 
