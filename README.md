@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Suraj - aka [mortallll][website] 👋
 
-<img align="right" alt="GIF" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" width="300" height="300" />
+<img align="right" alt="GIF" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" width="350" height="350" />
 
 ## I'm a Student, Developer, Philosopher!!
 
@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="salandage.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
+<!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
 [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
 
 <br />
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/mortallll/portfolio-sass/issues/1) in [mortallll/portfolio-sass](https://github.com/mortallll/portfolio-sass)
@@ -78,14 +78,14 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mortallll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
 <details>
-  <summary>Most Used Languages</summary>
+  <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
 
