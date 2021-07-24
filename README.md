@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mortallll&theme=dracula)](https://github.com/mortallll/github-readme-activity-graph)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
