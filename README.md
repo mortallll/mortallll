@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="salandage.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="salandage.com" width="22px" src="https://t3.ftcdn.net/jpg/02/02/94/00/240_F_202940027_cOHoOUcxdaUU2uiUI4wNeyEjmE9mJ8cm.jpg" />][website]
 [<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
 <!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
-[<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
 [<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
 
 <br />
