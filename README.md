@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Suraj - aka [mortallll][website] 👋
 
-![image](./icons/image-web-dev)
+![image](./icons/image-web-dev.png)
 
 ## I'm a Student, Developer, Philosopher!!
 
