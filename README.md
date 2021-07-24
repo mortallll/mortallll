@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Suraj - aka [mortallll][website] 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+viwes)
+
 <img align="right" alt="GIF" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" width="350" height="350" />
 
 ## I'm a Student, Developer, Philosopher!!
 
 - 🔭 I’m currently working on Web-Development Projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Opensource Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about anything 
 - ⚡ Fun fact: ...
 
-### Connect with me:
+### 📫 Connect with me:
 
 [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
 [<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
@@ -83,16 +83,16 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
   <img align="left" alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
-
+  
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
-
+  
+  <img align="left" alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
+  
 </details>
 
 [website]: https://mortallll.com
@@ -100,7 +100,6 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/mortallll
 [instagram]: https://instagram.com/mortallll_
 [linkedin]: https://linkedin.com/in/surajlandage
-[twitter]: https://twitter.com/mortallll
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
