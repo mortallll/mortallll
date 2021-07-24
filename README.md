@@ -84,6 +84,13 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
+
 [website]: https://mortallll.com
 <!-- [twitter]: https://twitter.com/salandage -->
 [youtube]: https://youtube.com/mortallll
