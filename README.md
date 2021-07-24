@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Suraj - aka [mortallll][website] 👋
 
+![image](https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png)
+
 ## I'm a Student, Developer, Philosopher!!
 
 - 🔭 I’m currently working on Web-Development Projects
