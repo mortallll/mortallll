@@ -71,7 +71,11 @@ Here are some ideas to get you started:
 
 ---
 
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mortallll&theme=react-dark)](https://github.com/mortallll/github-readme-activity-graph)
+<h2 align='center'><i>Activity Graph 📈</i></h2>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mortallll&theme=react-dark&area=true&hide_border=true" width="100%">
+</p>
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
