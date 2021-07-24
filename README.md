@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mortallll's GitHub Stats" src="https://github-readme-stats.mortallll.vercel.app/api?username=mortallll&show_icons=true&hide_border=true" />
+  <img align="left" alt="mortallll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/mortallll_
 [linkedin]: https://linkedin.com/in/surajlandage
 [twitter]: https://twitter.com/mortallll
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
