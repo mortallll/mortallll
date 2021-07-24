@@ -62,8 +62,32 @@ Here are some ideas to get you started:
 
 ---
 
-[website]: https://codeSTACKr.com
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/mortallll/portfolio-sass/issues/1) in [mortallll/portfolio-sass](https://github.com/mortallll/portfolio-sass)
+2. 🎉 Merged PR [#1](https://github.com/mortallll/portfolio-sass/pull/1) in [mortallll/portfolio-sass](https://github.com/mortallll/portfolio-sass)
+3. 🗣 Commented on [#10](https://github.com/mortallll/mortallll-vscode-theme/issues/10) in [mortallll/mortallll-vscode-theme](https://github.com/mortallll/mortallll-vscode-theme)
+4. 🗣 Commented on [#11](https://github.com/mortallll/mortallll-vscode-theme/issues/11) in [mortallll/mortallll-vscode-theme](https://github.com/mortallll/mortallll-vscode-theme)
+5. ❌ Closed PR [#1](https://github.com/mortallll/spotify-now-playing/pull/1) in [mortallll/spotify-now-playing](https://github.com/mortallll/spotify-now-playing)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mortallll's GitHub Stats" src="https://github-readme-stats.mortallll.vercel.app/api?username=mortallll&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://mortallll.com
 <!-- [twitter]: https://twitter.com/salandage -->
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/mortallll
 [instagram]: https://instagram.com/mortallll_
 [linkedin]: https://linkedin.com/in/surajlandage
+[twitter]: https://twitter.com/mortallll
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
