@@ -2,14 +2,11 @@
 <!-- ! Name -->
 ### Hi there, I'm Suraj
 
-<br>
 <!-- ================================================================================== -->
 <!-- ! Picture -->
 <!-- ToDo Picture should be on right side -->
 
 <img align="right" src="https://raw.githubusercontent.com/mortallll/mortallll/master/icons/pic.png"  width="300">
-
-<br>
 
 [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
 [<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
