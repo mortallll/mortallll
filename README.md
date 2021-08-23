@@ -3,13 +3,34 @@
 ### Hi there, I'm Suraj
 
 <!-- ================================================================================== -->
-<!-- ! Picture -->
-<!-- ToDo Picture should be on right side -->
+<!-- ! Information in points and Paragraphs -->
+
+- ✍ You can find my projects here
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on open source
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: ...
 
 
 <!-- ================================================================================== -->
-<!-- ! Information in points and Paragraphs -->
+<!-- ! Picture -->
+<!-- ToDo Picture should be on right side -->
 
+<img align="right" alt="GIF" src="D:\My Contributions\mortallll1\icons\pic.png?raw=true" width="450" height="300" />
+
+
+<!-- <img src="https://raw.githubusercontent.com/mortallll1/icons/pic.png" width="40px" /> -->
+
+[<img align="right" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
+[<img align="right" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
+[<img align="right" alt="salandage.com" width="22px" src="https://image.flaticon.com/icons/png/128/2590/2590242.png" />][website]
+[<img align="right" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
+<!-- [<img align="right" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
+
+<br>
+<br>
 
 <!-- ================================================================================== -->
 <!-- ! Languages and Tools -->
@@ -19,7 +40,7 @@
 <div align='center'>
 <table width="100">
 <tr>
-    <td colspan="6">
+    <td colspan="7">
         Programming languages 
     </td>
 </tr>
@@ -42,9 +63,12 @@
     <td align='center'>
         <img alt="" src="">
     </td>
+    <td align='center'>
+        <img alt="" src="">
+    </td>
 </tr>
 <tr>
-    <td colspan="6">
+    <td colspan="7">
        Web development
     </td>
 </tr>
@@ -65,11 +89,14 @@
         <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60">
     </td>
     <td align='center'>
+        <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+    </td>
+    <td align='center'>
         <img alt="" src="">
     </td>
 </tr>
 <tr>
-    <td colspan="6">
+    <td colspan="7">
         Database management
     </td>
 </tr>
@@ -92,9 +119,12 @@
     <td align='center'>
         <img alt="" src="">
     </td>
+    <td align='center'>
+        <img alt="" src="">
+    </td>
 </tr>
 <tr>
-    <td colspan="6">
+    <td colspan="7">
         Version control systems 
     </td>
 </tr>
@@ -117,9 +147,12 @@
     <td align='center'>
         <img alt="" src="">
     </td>
+    <td align='center'>
+        <img alt="" src="">
+    </td>
 </tr>
 <tr>
-    <td colspan="6">
+    <td colspan="7">
         Tools and IDE
     </td>
 </tr>
@@ -150,7 +183,7 @@
     </td>
 </tr>
 <tr>
-    <td colspan="6">
+    <td colspan="7">
         Electronics Software tools
     </td>
 </tr>
@@ -208,12 +241,22 @@
 <img alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
 </div>
 
+<br>
+<br>
 <!-- ================================================================================== -->
 <!-- ! Connect with me icons -->
 <!-- ToDo add Profile View Block -->
 
-![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)
+![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mortallll?style=social"/>
+
+ 
 
 <!-- ================================================================================== -->
 <!-- ! QR Code (Portfolio or Personal-website) -->
 <!-- ToDo put QR code in png format and align it on right side -->
+
+[website]: https://mortallll.com
+<!-- [twitter]: https://twitter.com/salandage -->
+[youtube]: https://youtube.com/surajlandage
+[instagram]: https://instagram.com/suraj.svg
+[linkedin]: https://linkedin.com/in/surajlandage
