@@ -3,6 +3,21 @@
 ### Hi there, I'm Suraj
 
 <!-- ================================================================================== -->
+<!-- ! Picture -->
+<!-- ToDo Picture should be on right side -->
+
+<!-- <img align="right" alt="GIF" src="mortallll1\icons\pic.png?raw=true" width="450" height="300" /> -->
+
+[<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
+[<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
+[<img align="left" alt="salandage.com" width="22px" src="https://image.flaticon.com/icons/png/128/2590/2590242.png" />][website]
+[<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
+<!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
+
+<br>
+<br>
+
+<!-- ================================================================================== -->
 <!-- ! Information in points and Paragraphs -->
 
 - ✍ You can find my projects here
@@ -13,24 +28,6 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ...
 
-
-<!-- ================================================================================== -->
-<!-- ! Picture -->
-<!-- ToDo Picture should be on right side -->
-
-<img align="right" alt="GIF" src="D:\My Contributions\mortallll1\icons\pic.png?raw=true" width="450" height="300" />
-
-
-<!-- <img src="https://raw.githubusercontent.com/mortallll1/icons/pic.png" width="40px" /> -->
-
-[<img align="right" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
-[<img align="right" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
-[<img align="right" alt="salandage.com" width="22px" src="https://image.flaticon.com/icons/png/128/2590/2590242.png" />][website]
-[<img align="right" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
-<!-- [<img align="right" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
-
-<br>
-<br>
 
 <!-- ================================================================================== -->
 <!-- ! Languages and Tools -->
@@ -228,14 +225,17 @@
 <!-- ================================================================================== -->
 <!-- ! GitHub Stats -->
 
-<h3 align='center'><i>------------------- GitHub stats -------------------</i></h3>
+<!-- <h3 align='center'><i>------------------- GitHub stats -------------------</i></h3> -->
+<h2 align='center'><i>GitHub stats</i></h2>
+
 
 <div align='center'>
 <img alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
 </div>
 <!-- ================================================================================== -->
 <!-- ! Most Used Languages -->
-<h3 align='center'><i>------------------- Most Used Languages -------------------</i></h3>
+<!-- <h3 align='center'><i>------------------- Most Used Languages -------------------</i></h3> -->
+<h2 align='center'><i>Most Used Languages</i></h2>
 
 <div align='center'>
 <img alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
