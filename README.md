@@ -221,7 +221,7 @@
 <!-- ================================================================================== -->
 <!-- ! GitHub Activitys -->
 
-<br>
+
 <br>
 <!-- ================================================================================== -->
 <!-- ! GitHub Stats -->
@@ -234,7 +234,6 @@
 <img alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
 </div>
 
-<br>
 <br>
 <!-- ================================================================================== -->
 <!-- ! Most Used Languages -->
