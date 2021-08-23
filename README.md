@@ -6,8 +6,9 @@
 <!-- ! Picture -->
 <!-- ToDo Picture should be on right side -->
 
-<!-- <img align="right" alt="GIF" src="mortallll1\icons\pic.png?raw=true" width="450" height="300" /> -->
+<img align="right" src="https://raw.githubusercontent.com/mortallll/mortallll/master/icons/pic.png"  width="300">
 
+ 
 [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
 [<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]
 [<img align="left" alt="salandage.com" width="22px" src="https://image.flaticon.com/icons/png/128/2590/2590242.png" />][website]
@@ -16,7 +17,7 @@
 
 <br>
 <br>
-
+<br>
 <!-- ================================================================================== -->
 <!-- ! Information in points and Paragraphs -->
 
