@@ -43,7 +43,10 @@
     </td>
 </tr>
 <tr>
-     <td align='center'>
+    <td align='center'>
+        <img alt="Python" src="https://img.icons8.com/color/2x/python.png" width="60">
+    </td> 
+    <td align='center'>
         <img alt="JAVA" src="https://image.flaticon.com/icons/png/128/226/226777.png" width="60">
     </td>
     <td align='center'>
@@ -51,9 +54,6 @@
     </td>
     <td align='center'>
         <img alt="C++" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="Python" src="https://img.icons8.com/color/2x/python.png" width="60">
     </td>
      <td align='center'>
         <img alt="" src="">
