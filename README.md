@@ -250,7 +250,7 @@
 <!-- ! Connect with me icons -->
 <!-- ToDo add Profile View Block -->
 
-![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mortallll?style=social"/>
+![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/surajlandage?style=social"/>
 
  
 
@@ -258,7 +258,7 @@
 <!-- ! QR Code (Portfolio or Personal-website) -->
 <!-- ToDo put QR code in png format and align it on right side -->
 
-[website]: https://mortallll.com
+[website]: https://surajlandage.com
 <!-- [twitter]: https://twitter.com/salandage -->
 [youtube]: https://youtube.com/surajlandage
 [instagram]: https://instagram.com/suraj.svg
