@@ -231,7 +231,7 @@
 
 
 <div align='center'>
-<img alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mortallll&show_icons=true&hide_border=true&theme=radical" />
+<img alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=surajlandage&show_icons=true&hide_border=true&theme=radical" />
 </div>
 
 <br>
@@ -241,7 +241,7 @@
 <h2 align='center'><i>Most Used Languages</i></h2>
 
 <div align='center'>
-<img alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortallll&show_icons=true&hide_border=true&theme=radical"/>
+<img alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajlandage&show_icons=true&hide_border=true&theme=radical"/>
 </div>
 
 <br>
@@ -250,7 +250,7 @@
 <!-- ! Connect with me icons -->
 <!-- ToDo add Profile View Block -->
 
-![](https://komarev.com/ghpvc/?username=mortallll&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/surajlandage?style=social"/>
+![](https://komarev.com/ghpvc/?username=surajlandage&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/surajlandage?style=social"/>
 
  
 
